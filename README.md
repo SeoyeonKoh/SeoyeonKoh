@@ -1,17 +1,24 @@
 # Seoyeon Koh
 
-Data, AI, and applied machine learning projects.
+I work on applied machine learning systems where models need to connect with real user decisions, public data, and human behavior.
 
-## Projects
+## Featured Work
 
-| Project | Summary |
+| Project | What it shows |
 |---|---|
-| [Oracle Crowdness Prediction](https://github.com/SeoyeonKoh/Oracle_crowdness_prediction) | Seoul subway accessibility and crowdness forecasting for wheelchair users |
-| [Skiing DQN](https://github.com/SeoyeonKoh/Skiing) | OCAtari/Gymnasium Skiing environment experiments with RAM-based DQN and replay generation |
-| [26_2_Contest](https://github.com/SeoyeonKoh/26_2_Contest) | Steam multimodal game recommendation system using interaction, text, image, and tabular features |
+| [Oracle Crowdness Prediction](https://github.com/SeoyeonKoh/Oracle_crowdness_prediction) | End-to-end public-data pipeline for Seoul subway congestion forecasting and accessibility-aware mobility support |
+| [OCAtari Skiing DQN](https://github.com/SeoyeonKoh/Skiing) | Reinforcement learning experiments with RAM observations, reward shaping, and replay analysis in Atari Skiing |
+| [ConflictDynamics](https://github.com/SeoyeonKoh/ConflictDynamics) | LLM multi-agent simulation engine for generating and evaluating conflict dynamics in group discussions |
 
-## Focus
+## Additional Projects
 
-- Machine learning and recommendation systems
-- Public data pipelines and accessibility services
-- Reinforcement learning experiments
+| Project | What it shows |
+|---|---|
+| [26_2_Contest](https://github.com/SeoyeonKoh/26_2_Contest) | Multimodal recommendation system combining user interactions with text, image, and tabular game features |
+
+## Interests
+
+- Applied machine learning and decision-support systems
+- Reinforcement learning and behavior modeling
+- LLM agents, simulation, and social dynamics
+- Data pipelines built from messy public datasets
