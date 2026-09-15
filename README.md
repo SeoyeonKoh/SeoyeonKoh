@@ -6,8 +6,8 @@ I work on applied machine learning systems where models need to connect with rea
 
 | Project | What it shows |
 |---|---|
-| [Oracle Crowdness Prediction](https://github.com/SeoyeonKoh/Oracle_crowdness_prediction) | End-to-end public-data pipeline for Seoul subway congestion forecasting and accessibility-aware mobility support |
-| [OCAtari Skiing DQN](https://github.com/SeoyeonKoh/Skiing) | Reinforcement learning experiments with RAM observations, reward shaping, and replay analysis in Atari Skiing |
+| [Ieum Mobility Support](https://github.com/SeoyeonKoh/ieum-mobility-support) | End-to-end public-data pipeline for Seoul subway congestion forecasting and accessibility-aware mobility decision support |
+| [OCAtari Skiing RL Agent](https://github.com/SeoyeonKoh/Skiing) | PAI Lab-origin reinforcement learning experiments with DQN, RAM observations, reward shaping, and replay analysis |
 | [ConflictDynamics](https://github.com/SeoyeonKoh/ConflictDynamics) | LLM multi-agent simulation engine for generating and evaluating conflict dynamics in group discussions |
 
 ## Additional Projects
